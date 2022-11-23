@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-prompt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Ramos Lemos",
+  "license": "ISC",
+  "dependencies": {
+    "node-email-validation": "^1.0.4",
+    "prompt": "^1.3.0"
+  }
+}
